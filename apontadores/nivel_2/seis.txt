@@ -1,0 +1,1 @@
+R: A diferença entre “&x” e a “*p” é que a “&x” é o endereço do ponteiro e o *p é para imprimir o valor ou endereço.
