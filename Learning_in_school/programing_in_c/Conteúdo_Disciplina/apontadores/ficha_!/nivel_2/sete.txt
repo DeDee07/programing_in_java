@@ -1,1 +1,0 @@
-R: O que acontece se for imprimir “p” dá erro e o código não resulta
